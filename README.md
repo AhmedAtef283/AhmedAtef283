@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ahmed Atef, Student at Faculty of Engineering majoring in Computers and Systems
+Hi 👋, I'm Ahmed Atef, Student at Faculty of Engineering majoring in Computers and Systems @ Zagazig University
 
 
 ## 🌐 Socials:
