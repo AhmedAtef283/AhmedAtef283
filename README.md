@@ -9,8 +9,8 @@
 </p>
 
 - 📫 Mail me: ahmed.atef.saleh6@gmail.com
-- 📱 I'm a Flutter Mobile Application developer.
-- 🎓 Senior Student at the Faculty of Engineering majoring in Computers and Systems @ Zagazig University.
+- 📱 I'm a Software Engineer.
+- 🎓 Graduated from the Faculty of Engineering majoring in Computers and Systems @ Zagazig University.
 - 💬 Ask me anything related to the flutter technology.
 
 ### Connect with Me :
